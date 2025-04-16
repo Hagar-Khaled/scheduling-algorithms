@@ -31,15 +31,18 @@ This project is a command-line simulation of **six classic CPU scheduling algori
       ```
 
 ---
-🧠 Educational Purpose
+## 🧠 Educational Purpose
+
 This simulator is designed to help students and learners:
 Understand how scheduling algorithms work
 Compare scheduling techniques
 Visualize CPU behavior over time
 
-🤝 Contributions
+## 🤝 Contributions
+
 Feel free to fork and modify this project!
 
-📬 Contact
+## 📬 Contact 
+
 Made with ❤️ for Operating Systems lovers.
 If you have suggestions or feedback, feel free to reach out!
